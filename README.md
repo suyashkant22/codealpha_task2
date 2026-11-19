@@ -1,6 +1,6 @@
 # codealpha_task2
 A simple rule-based chatbot in Python that replies to greetings and goodbyes using if-elif, functions, loops and input/output.
-# Basic Chatbot (Task 4)
+# Basic Chatbot
 
 A simple rule-based chatbot written in Python. It reads what the user types and replies with predefined responses.
 
